@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="969d4e04-ce1a-47ef-bd5a-a2f9fa8c7125" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dO08BizgygOQ1vodjVe5eqZYyg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Diff &amp; Merge" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\NetFriend" />
+      <recent name="D:\xampp\htdocs\NetFriend\admin" />
+      <recent name="D:\xampp\htdocs\NetFriend\admin\includes" />
+      <recent name="D:\xampp\htdocs\MyBlog\images" />
+      <recent name="D:\xampp\htdocs\blogging_system\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\NetFriend" />
+      <recent name="D:\xampp\htdocs\MyBlog\images" />
+      <recent name="D:\xampp\htdocs\MyBlog\includes" />
+      <recent name="D:\xampp\htdocs\MyBlog\admin\validator" />
+      <recent name="D:\xampp\htdocs\blogging_system\images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="969d4e04-ce1a-47ef-bd5a-a2f9fa8c7125" name="Default Changelist" comment="" />
+      <created>1592280670578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592280670578</updated>
+      <workItem from="1592280671890" duration="5759000" />
+      <workItem from="1592292009503" duration="996000" />
+      <workItem from="1592293060999" duration="9871000" />
+      <workItem from="1592469075445" duration="13000" />
+      <workItem from="1595921879052" duration="129000" />
+      <workItem from="1595933718995" duration="26000" />
+      <workItem from="1596679659750" duration="55000" />
+      <workItem from="1599441158466" duration="602000" />
+      <workItem from="1599534718088" duration="2807000" />
+      <workItem from="1599612796304" duration="3115000" />
+      <workItem from="1599620625746" duration="3125000" />
+      <workItem from="1599623766292" duration="1599000" />
+      <workItem from="1599629423609" duration="10931000" />
+      <workItem from="1599647096725" duration="4559000" />
+      <workItem from="1599657987253" duration="8996000" />
+      <workItem from="1599667286903" duration="244000" />
+      <workItem from="1599725540516" duration="3702000" />
+      <workItem from="1599729258055" duration="1964000" />
+      <workItem from="1599744673503" duration="8017000" />
+      <workItem from="1599790028324" duration="7727000" />
+      <workItem from="1599830874097" duration="3822000" />
+      <workItem from="1599835344256" duration="5525000" />
+      <workItem from="1599880080015" duration="2315000" />
+      <workItem from="1599887853283" duration="17909000" />
+      <workItem from="1599917782005" duration="1379000" />
+      <workItem from="1599919173496" duration="7626000" />
+      <workItem from="1599961299898" duration="4675000" />
+      <workItem from="1600346379083" duration="198000" />
+      <workItem from="1600352114647" duration="5605000" />
+      <workItem from="1600394260884" duration="17000" />
+      <workItem from="1600394392329" duration="1148000" />
+      <workItem from="1600660771290" duration="2606000" />
+      <workItem from="1600664775225" duration="223000" />
+      <workItem from="1600734447542" duration="2612000" />
+      <workItem from="1601002838559" duration="6000" />
+      <workItem from="1602215931917" duration="696000" />
+      <workItem from="1602247200104" duration="321000" />
+      <workItem from="1604022140185" duration="1599000" />
+      <workItem from="1604216555093" duration="10142000" />
+      <workItem from="1604629782726" duration="11000" />
+      <workItem from="1623159653608" duration="12101000" />
+      <workItem from="1623228573636" duration="481000" />
+      <workItem from="1623229061427" duration="242000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1599667313456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599667313456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1623229057930">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1623229057930" />
+    <state x="463" y="149" width="609" height="536" key="find.popup" timestamp="1623172093026">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="463" y="149" width="609" height="536" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1623172093026" />
+    <state x="425" y="71" width="672" height="676" key="search.everywhere.popup" timestamp="1623168441093">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="71" width="672" height="676" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1623168441093" />
+  </component>
+</project>
