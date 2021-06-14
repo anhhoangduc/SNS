@@ -18,7 +18,9 @@
                         <a href="https://github.com/ducanhlhp9" >
                             <img src="images/github.png" alt="Image placeholder" class="img-fluid" style="width: 50px">
                         </a>
-
+                        <a href="./cms-admin.php" >
+                            <img src="images/login.png" alt="Image placeholder" class="img-fluid" style="width: 150px">
+                        </a>
                     </div>
                 </div>
                 <div class="col-3 search-top">
